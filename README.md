@@ -3,10 +3,10 @@ I CREATED THIS PROJECT DURING MY XI GRADE IN SCHOOL. I WANTED TO MAKE A BASIC PR
 <BR>
 <I> HOW TO USE THIS CODE </I>
 <BR>
-download python and IDE <BR>
-install  python
+Download python and IDE <BR>
+Install  python
 <BR>
-create 2 files named data1.dat and data2.dat containing an empty list using the given code (datawrite.py)
+Create 2 files named data1.dat and data2.dat containing an empty list which can be done using the given sample code (BINARYWRITE.py)
 <BR>
 you can edit (add new data or del old data) databse, search for data, see your search history and erase it too.
 <BR>

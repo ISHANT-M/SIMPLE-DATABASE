@@ -10,6 +10,6 @@ Create 2 files named data1.dat and data2.dat containing an empty list which can 
 <BR>
 you can edit (add new data or del old data) databse, search for data, see your search history and erase it too.
 <BR>
-HOPE YOU FOUND THIS USEFULL
+HOPE YOU FIND THIS PROJECT USEFULL
 <BR>
              <b> - ISHANT MEHNDIRATTA 2023 </b>
